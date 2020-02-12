@@ -1,0 +1,16 @@
+.top-logo {
+    max-width: 200px;
+}
+
+.hide {
+    display: none;
+}
+
+#accordion {
+    margin-bottom: 20px;
+}
+
+#buttonright {
+    float: right;
+    margin-right: 10px;
+}
